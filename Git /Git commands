@@ -123,7 +123,11 @@ git token
 -select permissions
 -create token
 
-
+IN windows
+IN Search Bar= Search credential manager
+web credential
+select git
+remove git clone link
 
 
 
